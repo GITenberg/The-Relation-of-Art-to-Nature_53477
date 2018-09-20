@@ -1,0 +1,28 @@
+_repo: The-Relation-of-Art-to-Nature_53477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beatty, John W. (John Wesley)
+    alias: Beatty, J. W. (John Wesley)
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '47392'
+    url: http://www.gutenberg.org/2009/agents/47392
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2016-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53477'
+  lccn: '23011007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art'
+- !lcsh 'Nature (Aesthetics)'
+- GITenberg
+title: The Relation of Art to Nature
+url: http://www.gutenberg.org/ebooks/53477
